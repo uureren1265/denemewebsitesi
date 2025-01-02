@@ -1,0 +1,33 @@
+.deneme {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  min-height: 300px;
+}
+
+.deneme h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.deneme p {
+  font-size: 1em;
+  color: #333;
+}
+
+.deneme p small {
+  color: #777;
+}
+
+.deneme a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.deneme a:hover {
+  text-decoration: underline;
+}
